@@ -17,5 +17,5 @@
 | ["Поколение Python": курс для начинающих](Поколение_Python_начинающие) | Онлайн-курс от *Школа BEEGEEK* на Stepik.org  -  ссылка сертификат https://stepik.org/cert/887160 | *52 задачи*|
 | ["Поколение Python": курс для продвинутых](project_08_moscow_rests) | Онлайн-курс от *Школа BEEGEEK* на Stepik.org  -  ссылка сертификат https://stepik.org/cert/1040221 | *66 задач* |
 | [Контесты проекта "Поколение Python"](project_12_marketing_source) | Контест для проверки знаний от *Школа BEEGEEK* на Stepik.org | *21 задача* |
-| [Тренировки по алгоритмам 2.0](project_13_SQL) | Онлайн-тренинг от *Young&&Yandex*  на Yandex.ru | *40 задач* |
+| [Тренировки по алгоритмам 2.0](project_13_SQL) | Онлайн-тренинг по алгоритмическим задачам от *Young&&Yandex*  на Yandex.ru | *40 задач* |
 | [Python: основы и применение](project_13_SQL) | Онлайн-курс от *Bioinformatics Institute* на Stepik.org | *39 задач* |
