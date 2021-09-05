@@ -16,6 +16,6 @@
 | [Программирование на Python](Программирование_на_Python) | Онлайн-курс Stepik.org от *Bioinformatics Institute*  -  ссылка сертификат https://stepik.org/cert/873052 | *37 задач* |
 | ["Поколение Python": курс для начинающих](Поколение_Python_начинающие) | Онлайн-курс от *Школа BEEGEEK* на Stepik.org  -  ссылка сертификат https://stepik.org/cert/887160 | *52 задачи*|
 | ["Поколение Python": курс для продвинутых](Поколение_Python_продвинутые) | Онлайн-курс от *Школа BEEGEEK* на Stepik.org  -  ссылка сертификат https://stepik.org/cert/1040221 | *66 задач* |
-| [Контест проекта "Поколение Python"](project_12_marketing_source) | Контест для проверки знаний от *Школа BEEGEEK* на Stepik.org | *21 задача* |
+| [Контест проекта "Поколение Python"](Контест_BEEGEEK) | Контест для проверки знаний от *Школа BEEGEEK* на Stepik.org | *21 задача* |
 | [Тренировки по алгоритмам 2.0](project_13_SQL) | Онлайн-тренинг по алгоритмическим задачам от *Young&&Yandex*  на Yandex.ru | *40 задач* |
 | [Python: основы и применение](project_13_SQL) | Онлайн-курс от *Bioinformatics Institute* на Stepik.org | *39 задач* |
